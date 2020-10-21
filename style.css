@@ -1,0 +1,24 @@
+h1{
+    color: mediumpurple;
+    font-family: jokerman;
+    padding-left: 750px;
+}
+img:hover{
+    opacity:0.5
+}
+a:visited{
+    color: rebeccapurple;
+}
+
+
+.header{
+    background-color: gold;
+    display:flex;
+    justify-content: space-between;
+}
+body{
+    background-color: lavenderblush;
+}
+.menu a{
+    margin-left: 100px;
+}
